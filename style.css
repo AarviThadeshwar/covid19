@@ -38,6 +38,8 @@ h4{
 .btn{
 	text-align: left;
 	background-color: #EBDFC1;
+	border: none;
+	color: #000000;
 }
 
 
@@ -69,6 +71,11 @@ h4{
 	padding-top: 1.5em;
 }
 
+.btnRow{
+	text-align: right;
+	padding-right: 1.5em;
+}
+
 .image-container {
   background-image: url('images/mystery.jpg');
   background-size:cover;
@@ -77,4 +84,12 @@ h4{
   height: 12em;
   border-radius: 1.5em;
 
+}
+
+#middleContainer{
+	padding-top: 3em;
 } 
+
+.literature{
+	padding-bottom: 1em;
+}
