@@ -155,7 +155,7 @@ h5{
   text-align: left;
 }
 
-.active, .collapsible:hover {
+.collapsible:hover {
   background-color: #8AA3E8;
 }
 
