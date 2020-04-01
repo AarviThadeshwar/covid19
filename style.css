@@ -5,6 +5,9 @@ body{
 	width: 100%
 }
 
+h1{
+	font-weight: 900;
+}
 
 h2{
 	font-weight: 800;
@@ -86,10 +89,21 @@ h4{
 
 }
 
-#middleContainer{
+#anyContainer{
 	padding-top: 3em;
 } 
 
 .literature{
 	padding-bottom: 1em;
+}
+
+#stats{
+	text-align: center;
+	padding-top: 1.5em;
+}
+
+#graphContainer{
+	height: 20em;
+	border-radius: 2em;
+	background-color: #D8D8D8;
 }
