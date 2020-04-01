@@ -146,6 +146,17 @@ h5{
 }
 .infoSectionButton:hover {background-color: #D7D7D7;}
 
+.usefulInfoSectionButton {
+  background:#ACBBE6;
+  border: none;
+  border-radius: 8px;
+  width: 100%; 
+  padding: 14px; 
+  margin: 4px 0;
+  text-align: left;
+}
+.usefulInfoSectionButton:hover {background-color: #8AA3E8;}
+
 .blueLine {
   height: 8px;
   width: 100%;
