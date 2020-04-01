@@ -115,6 +115,7 @@ h5{
 .providerTypeButton {
   background: #ACBBE6; 
   border-radius: 10px; 
+  border: none;
   width: 100%; 
   padding: 10px; 
   margin: 2px 0;
