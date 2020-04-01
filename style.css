@@ -1,0 +1,109 @@
+body{
+	font-family: "Montserrat", sans-serif;	
+	min-height: 2em;
+	color: black;
+	width: 100%
+}
+
+h1{
+	font-weight: 900;
+}
+
+h2{
+	font-weight: 800;
+}
+
+h3{
+	font-weight: 700;
+}
+
+h4{
+	font-weight: 700;
+}
+
+.navbar{
+	background-color: #25353F;
+	height: 5em;
+}
+
+.navbar-nav li{
+	padding-left: 1.5em;
+}
+
+.btnContainer{
+	background-color: #FFFFFF;
+	padding-top: 3em;
+	padding-bottom: 3em;
+	width: 100%;
+	text-align: center;
+}
+
+.btn{
+	text-align: left;
+	background-color: #EBDFC1;
+	border: none;
+	color: #000000;
+}
+
+
+#providerBtn{
+	width: 90%;
+	padding: 1.5em 3em 1.5em 3em;
+}
+
+.container-fluid{
+	width: 90%;
+}
+
+#usefulLinks{
+	border: 0.25em solid #D8D8D8;
+	border-radius: 1em;
+	padding: 1em 2em 1em 2em;
+}
+
+.usefulLinksTitle{
+	border-width: 80%;
+	border-bottom: 0.5em solid #ACBBE6;
+}
+
+.linkRow{
+	padding-top: 1em;
+}
+
+.newsRow{
+	padding-top: 1.5em;
+}
+
+.btnRow{
+	text-align: right;
+	padding-right: 1.5em;
+}
+
+.image-container {
+  background-image: url('images/mystery.jpg');
+  background-size:cover;
+  background-repeat:no-repeat;
+  width: 12em;
+  height: 12em;
+  border-radius: 1.5em;
+
+}
+
+#anyContainer{
+	padding-top: 3em;
+} 
+
+.literature{
+	padding-bottom: 1em;
+}
+
+#stats{
+	text-align: center;
+	padding-top: 1.5em;
+}
+
+#graphContainer{
+	height: 20em;
+	border-radius: 2em;
+	background-color: #D8D8D8;
+}
