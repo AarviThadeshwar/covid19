@@ -159,3 +159,11 @@ h5{
   margin: 16px 0;
   background-color: #D7D7D7;
 }
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
