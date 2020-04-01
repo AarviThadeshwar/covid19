@@ -138,6 +138,15 @@ h5{
   font-family: 'Montserrat', sans-serif;
 }
 
+.infoSectionButton {
+  border: 2px solid #D7D7D7;
+  border-radius: 8px;
+  width: 100%; 
+  padding: 10px; 
+  margin: 2px 0;
+}
+.infoSectionButton:hover {background-color: #D7D7D7;}
+
 .blueLine {
   height: 8px;
   width: 100%;
