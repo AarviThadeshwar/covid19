@@ -48,7 +48,6 @@ h4{
 
 .container-fluid{
 	width: 90%;
-	height: 50em;
 }
 
 #usefulLinks{
@@ -64,5 +63,18 @@ h4{
 
 .linkRow{
 	padding-top: 1em;
-	padding-bottom: 1em;
 }
+
+.newsRow{
+	padding-top: 1.5em;
+}
+
+.image-container {
+  background-image: url('images/mystery.jpg');
+  background-size:cover;
+  background-repeat:no-repeat;
+  width: 12em;
+  height: 12em;
+  border-radius: 1.5em;
+
+} 
