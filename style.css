@@ -107,3 +107,24 @@ h4{
 	border-radius: 2em;
 	background-color: #D8D8D8;
 }
+.providerTypeButton {
+  background: #ACBBE6; 
+  border-radius: 10px; 
+  width: 100%; 
+  padding: 10px; 
+  margin: 2px 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+.blueLine {
+  height: 8px;
+  width: 100%;
+  margin: 16px 0;
+  background-color: #ACBBE6;
+}
+.greyLine {
+  height: 4px;
+  width: 100%;
+  margin: 16px 0;
+  background-color: #D7D7D7;
+}
