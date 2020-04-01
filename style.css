@@ -178,3 +178,11 @@ h5{
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+
+#infoContainer{
+  padding-top: 2em;
+}
+
+.btn-link{
+  background-color: none;
+}
